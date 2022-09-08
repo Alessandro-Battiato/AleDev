@@ -1,0 +1,25 @@
+{
+  "name": "aledev",
+  "version": "1.0.0",
+  "description": "Showcasing my best projects and some info about me",
+  "default": "index.html",
+  "scripts": {
+    "compile:sass": "sass --watch assets/scss/styles.scss",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [
+    "sass"
+  ],
+  "author": "Alessandro Salvatore Battiato",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.7.0",
+    "sass": "^1.54.4"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "parcel": "^2.7.0",
+    "vanilla-tilt": "^1.7.2"
+  }
+}
