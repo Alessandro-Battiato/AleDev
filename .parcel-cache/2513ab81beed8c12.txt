@@ -1,4 +1,4 @@
-4645
+4652
 111C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\htmlnano\docs\versioned_sidebars\version-1.1.1-sidebars.json121436361000000000 0
 71C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\ansi-styles\index.js121436361000000000 0
 64C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\yaml\util.mjs121436361000000000 0
@@ -12,7 +12,7 @@
 70C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\parcel\package.json133050526154901394 0
 73C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@parcel\compressor-raw133050526156272393 1
 104C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@parcel\transformer-html\node_modules\posthtml-parser133050526159215659 1
-44C:\Users\Ale\Desktop\Portfolio\AleDev\assets133052263109700360 1
+44C:\Users\Ale\Desktop\Portfolio\AleDev\assets133203396023372076 1
 84C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\css-tree\lib\syntax\pseudo\dir.js121436361000000000 0
 82C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@parcel\reporter-dev-server\src133050526091239039 1
 60C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\bootstrap133050524600102182 1
@@ -24,12 +24,7 @@
 81C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@parcel\utils\src\sourcemap.js121436361000000000 0
 76C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\lines-and-columns\LICENSE121436361000000000 0
 88C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\features\css-all.js121436361000000000 0
-42C:\Users\Ale\Desktop\Portfolio\AleDev\dist133071503679737392 1
-82C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\regions\EG.js121436361000000000 0
-58C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\is-glob133050524336095710 1
-82C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\sass\types\legacy\importer.d.ts121436361000000000 0
-97C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\bootstrap\dist\css\bootstrap-utilities.css.map121436361000000000 0
-62C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@jridgewell133050526146360857 1
+42C:\Users\Ale\Desktop\Portfolio\AleDev\dist133203416419002134 1
 77C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\htmlnano\docs\netlify.toml121436361000000000 0
 75C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\terser\dist\package.json121436361000000000 0
 73C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\timsort\src\timsort.js131138581980000000 0
@@ -51,11 +46,23 @@
 68C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@babel\code-frame133050526159185736 1
 71C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\msgpackr-extract\bin133050526098583813 1
 55C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\.bin133050526160611931 1
+75C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\svgo\lib\svgo\jsAPI.d.ts121436361000000000 0
+95C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\features\rel-noreferrer.js121436361000000000 0
+95C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\features\css-dir-pseudo.js121436361000000000 0
+82C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\regions\KM.js121436361000000000 0
+77C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\css-what\lib\es\parse.d.ts121436361000000000 0
+58C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@parcel133051342781335739 1
+71C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\lmdb\src\lmdb-js.cpp121436361000000000 0
+78C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\utility-types\dist\index.js121436361000000000 0
+85C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\node-addon-api\tools\check-napi.js121436361000000000 0
+63C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\yaml\browser133050526090949224 1
+47C:\Users\Ale\Desktop\Portfolio\AleDev\README.md133203415765323871 0
+97C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\svgo\plugins\removeNonInheritableGroupAttrs.js121436361000000000 0
 59C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\chokidar133050524336125633 1
 90C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\features\classlist.js121436361000000000 0
 84C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\mdn-data\css\syntaxes.schema.json121436361000000000 0
 98C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@parcel\core\src\requests\WriteBundleRequest.js121436361000000000 0
-48C:\Users\Ale\Desktop\Portfolio\AleDev\index.html133071448721240931 0
+48C:\Users\Ale\Desktop\Portfolio\AleDev\index.html133203411769649441 0
 81C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\yaml\browser\dist\parse-cst.js121436361000000000 0
 59C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\css-tree133050526158338005 1
 83C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\bootstrap\js\dist\util\config.js121436361000000000 0
@@ -82,6 +89,11 @@
 92C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\source-map-js\lib\source-map-generator.js121436361000000000 0
 86C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\regions\alt-af.js121436361000000000 0
 50C:\Users\Ale\Desktop\Portfolio\AleDev\package.json133051342781802311 0
+82C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\regions\EG.js121436361000000000 0
+58C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\is-glob133050524336095710 1
+82C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\sass\types\legacy\importer.d.ts121436361000000000 0
+97C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\bootstrap\dist\css\bootstrap-utilities.css.map121436361000000000 0
+62C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@jridgewell133050526146360857 1
 82C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\regions\ZM.js121436361000000000 0
 104C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\features\document-evaluate-xpath.js121436361000000000 0
 61C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\domhandler133050526154143421 1
@@ -117,13 +129,6 @@
 82C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@parcel\core\lib\projectPath.js121436361000000000 0
 82C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\regions\WF.js121436361000000000 0
 68C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@msgpackr-extract133051342781325764 1
-75C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\svgo\lib\svgo\jsAPI.d.ts121436361000000000 0
-95C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\features\rel-noreferrer.js121436361000000000 0
-95C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\features\css-dir-pseudo.js121436361000000000 0
-82C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\regions\KM.js121436361000000000 0
-77C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\css-what\lib\es\parse.d.ts121436361000000000 0
-58C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@parcel133051342781335739 1
-71C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\lmdb\src\lmdb-js.cpp121436361000000000 0
 71C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\css-select\README.md121436361000000000 0
 136C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-package-redirect-up133050526123856894 1
 55C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@swc133050526148578450 1
@@ -132,6 +137,7 @@
 99C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@jridgewell\gen-mapping\dist\gen-mapping.mjs.map121436361000000000 0
 55C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\yaml133050526156501770 1
 87C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@parcel\watcher\src\watchman\BSER.hh121436361000000000 0
+65C:\Users\Ale\Desktop\Portfolio\AleDev\dist\Project 4.21207bdf.jpg133203416389577610 0
 76C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\htmlnano\docs\sidebars.js121436361000000000 0
 101C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@swc\helpers\lib\_iterable_to_array_limit_loose.js121436361000000000 0
 95C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@parcel\watcher\src\macos\FSEventsBackend.hh121436361000000000 0
@@ -526,10 +532,6 @@
 99C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@jridgewell\resolve-uri\dist\resolve-uri.mjs.map121436361000000000 0
 97C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\node-gyp-build-optional-packages\build-test.js121436361000000000 0
 65C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\weak-lru-cache133050526158288148 1
-78C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\utility-types\dist\index.js121436361000000000 0
-85C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\node-addon-api\tools\check-napi.js121436361000000000 0
-63C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\yaml\browser133050526090949224 1
-97C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\svgo\plugins\removeNonInheritableGroupAttrs.js121436361000000000 0
 91C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\css-select\lib\pseudo-selectors\index.js121436361000000000 0
 60C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\yaml\dist133050526091738372 1
 82C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\source-map-support\package.json133050526157919121 0
@@ -639,7 +641,7 @@
 71C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\yaml\types\binary.js121436361000000000 0
 82C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\regions\MP.js121436361000000000 0
 69C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\yaml\types\omap.js121436361000000000 0
-65C:\Users\Ale\Desktop\Portfolio\AleDev\dist\Project 1.007463e1.jpg133071466012300145 0
+65C:\Users\Ale\Desktop\Portfolio\AleDev\dist\Project 1.007463e1.jpg133203410242274705 0
 68C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\yaml\types\set.js121436361000000000 0
 84C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\features\ttf.js121436361000000000 0
 76C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\lmdb\dependencies\lz4\lib133050526118122055 1
@@ -1050,7 +1052,7 @@
 128C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-module\module.js121436361000000000 0
 74C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\node-gyp-build\index.js121436361000000000 0
 68C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\path-type\license121436361000000000 0
-49C:\Users\Ale\Desktop\Portfolio\AleDev\dist\assets133071503669148892 1
+49C:\Users\Ale\Desktop\Portfolio\AleDev\dist\assets133203416388746069 1
 88C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@parcel\transformer-json\package.json133050526155743819 0
 82C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\regions\AW.js121436361000000000 0
 90C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\features\xhtmlsmil.js121436361000000000 0
@@ -1222,7 +1224,7 @@
 80C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\css-select\lib\types.d.ts.map121436361000000000 0
 98C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\features\sharedarraybuffer.js121436361000000000 0
 102C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@parcel\source-map\parcel_sourcemap_node\src\lib.rs121436361000000000 0
-63C:\Users\Ale\Desktop\Portfolio\AleDev\dist\favicon.c73c4201.png133071298258866612 0
+63C:\Users\Ale\Desktop\Portfolio\AleDev\dist\favicon.c73c4201.png133203410242224837 0
 77C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\svgo\plugins\cleanupIDs.js121436361000000000 0
 83C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\css-tree\lib\syntax\node\Rule.js121436361000000000 0
 89C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\features\css-grid.js121436361000000000 0
@@ -1296,10 +1298,6 @@
 137C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\source-not-symlinked\package.json121436361000000000 0
 86C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\svgo\plugins\removeScriptElement.js121436361000000000 0
 68C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\commander\esm.mjs121436361000000000 0
-74C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\source-map-js\README.md121436361000000000 0
-82C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\regions\TV.js121436361000000000 0
-89C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\features\datalist.js121436361000000000 0
-98C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl.c121436361000000000 0
 87C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\dist\unpacker\agents.js121436361000000000 0
 91C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@parcel\utils\src\generateCertificate.js121436361000000000 0
 108C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@parcel\optimizer-image\parcel-image.linux-arm64-gnu.node121436361000000000 0
@@ -1362,6 +1360,10 @@
 87C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@parcel\transformer-raw\package.json133050526155733848 0
 68C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\source-map-js\lib133050524332825714 1
 69C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\nullthrows\LICENSE121436361000000000 0
+74C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\source-map-js\README.md121436361000000000 0
+82C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\regions\TV.js121436361000000000 0
+89C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\features\datalist.js121436361000000000 0
+98C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl.c121436361000000000 0
 106C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@babel\highlight\node_modules\color-name\.eslintrc.json131174093250000000 0
 76C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@parcel\hash\package.json133050526156003101 0
 80C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\source-map-js\source-map.d.ts121436361000000000 0
@@ -1560,9 +1562,9 @@
 80C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\css-tree\lib\syntax\create.js121436361000000000 0
 73C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\entities\lib\encode.js121436361000000000 0
 94C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\lmdb\node_modules\node-addon-api\LICENSE.md121436361000000000 0
+96C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\features\background-sync.js121436361000000000 0
 84C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\css-tree\lib\syntax\config\mix.js121436361000000000 0
 79C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\posthtml-parser\package.json133050526157998911 0
-96C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\features\background-sync.js121436361000000000 0
 87C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@parcel\diagnostic\src\diagnostic.js121436361000000000 0
 82C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\regions\NC.js121436361000000000 0
 76C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\posthtml-parser\readme.md121436361000000000 0
@@ -1907,7 +1909,7 @@
 96C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\lmdb\node_modules\node-addon-api\node_api.gyp121436361000000000 0
 93C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\lmdb\node_modules\node-addon-api\nothing.c121436361000000000 0
 96C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\lmdb\node_modules\node-addon-api\package.json133050526159046112 0
-60C:\Users\Ale\Desktop\Portfolio\AleDev\dist\assets\resume.pdf133071503669128946 0
+60C:\Users\Ale\Desktop\Portfolio\AleDev\dist\assets\resume.pdf133203416388716144 0
 108C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@parcel\watcher\prebuilds\darwin-x64\node.napi.glibc.node121436361000000000 0
 84C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\lmdb\dependencies\lz4\lib\lz4hc.h121436361000000000 0
 71C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\htmlnano\lib\presets133050526077381154 1
@@ -1940,10 +1942,6 @@
 87C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\features\tls1-1.js121436361000000000 0
 79C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\htmlparser2\lib\Tokenizer.js121436361000000000 0
 98C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\lmdb\dependencies\lz4\lib\dll\example\README.md121436361000000000 0
-84C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\bootstrap\scss\_placeholders.scss121436361000000000 0
-68C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\csso\dist\csso.js121436361000000000 0
-90C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\features\css3-attr.js121436361000000000 0
-69C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\json5\package.json133050526159135872 0
 98C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@parcel\watcher\src\watchman\WatchmanBackend.cc121436361000000000 0
 91C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\lmdb\dependencies\lmdb-data-v1\libraries133050526073491702 1
 99C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb133050526118830162 1
@@ -2014,6 +2012,10 @@
 83C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\lines-and-columns\build\index.js121436361000000000 0
 60C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\json5\lib133050526097894142 1
 91C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@parcel\transformer-js\src\loadNative.js121436361000000000 0
+84C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\bootstrap\scss\_placeholders.scss121436361000000000 0
+68C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\csso\dist\csso.js121436361000000000 0
+90C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\features\css3-attr.js121436361000000000 0
+69C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\json5\package.json133050526159135872 0
 66C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\json5\README.md121436361000000000 0
 83C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\abortcontroller-polyfill\LICENSE121436361000000000 0
 67C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\json5\lib\cli.js121436361000000000 0
@@ -2259,7 +2261,7 @@
 69C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\entities\readme.md121436361000000000 0
 82C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\regions\ER.js121436361000000000 0
 65C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\chokidar\types133050524332795796 1
-65C:\Users\Ale\Desktop\Portfolio\AleDev\assets\images\Project 3.jpg133071297820000000 0
+65C:\Users\Ale\Desktop\Portfolio\AleDev\assets\images\Project 3.jpg133203409920000000 0
 76C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\csso\lib\replace\index.js121436361000000000 0
 75C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\entities\lib\decode.d.ts121436361000000000 0
 82C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\regions\BF.js121436361000000000 0
@@ -2893,7 +2895,7 @@
 82C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\regions\NZ.js121436361000000000 0
 77C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@parcel\graph\lib\Graph.js121436361000000000 0
 82C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\regions\PF.js121436361000000000 0
-60C:\Users\Ale\Desktop\Portfolio\AleDev\dist\index.df15ae8e.js133071466013277529 0
+60C:\Users\Ale\Desktop\Portfolio\AleDev\dist\index.df15ae8e.js133203410246339529 0
 82C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\regions\PK.js121436361000000000 0
 82C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\regions\PR.js121436361000000000 0
 82C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\regions\PS.js121436361000000000 0
@@ -3142,7 +3144,7 @@
 93C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\features\currentcolor.js121436361000000000 0
 77C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@parcel\watcher\index.d.ts121436361000000000 0
 96C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\features\custom-elements.js121436361000000000 0
-53C:\Users\Ale\Desktop\Portfolio\AleDev\dist\index.html133071503679637713 0
+53C:\Users\Ale\Desktop\Portfolio\AleDev\dist\index.html133203416418992159 0
 98C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\features\custom-elementsv1.js121436361000000000 0
 81C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@parcel\watcher\src\Watcher.cc121436361000000000 0
 92C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\features\customevent.js121436361000000000 0
@@ -3175,7 +3177,7 @@
 72C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\bootstrap\js\dist\dom133050524597579019 1
 101C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\features\high-resolution-time.js121436361000000000 0
 103C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\features\element-scroll-methods.js121436361000000000 0
-65C:\Users\Ale\Desktop\Portfolio\AleDev\assets\images\Project 1.jpg133071297850000000 0
+65C:\Users\Ale\Desktop\Portfolio\AleDev\assets\images\Project 1.jpg133203409900000000 0
 84C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\features\eme.js121436361000000000 0
 83C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@swc\helpers\lib\_ts_decorate.js121436361000000000 0
 90C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\caniuse-lite\data\features\es6-class.js121436361000000000 0
@@ -4177,6 +4179,7 @@
 107C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@parcel\optimizer-image\parcel-image.win32-x64-msvc.node121436361000000000 0
 96C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@parcel\optimizer-image\lib\ImageOptimizer.js121436361000000000 0
 142C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\sub\a\index.js121436361000000000 0
+65C:\Users\Ale\Desktop\Portfolio\AleDev\dist\Project 4.9f27e14c.jpg133203410242254761 0
 81C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@parcel\optimizer-htmlnano\lib133050526068744386 1
 85C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@parcel\optimizer-htmlnano\LICENSE121436361000000000 0
 85C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@parcel\graph\lib\AdjacencyList.js121436361000000000 0
@@ -4329,7 +4332,7 @@
 94C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@parcel\core\test\fixtures\invalid-distpath133050526121163924 1
 93C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@parcel\core\test\fixtures\invalid-engines133050526121343444 1
 100C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@parcel\core\test\fixtures\invalid-source-missing133050526121498112 1
-65C:\Users\Ale\Desktop\Portfolio\AleDev\dist\Project 3.91ddb0ef.jpg133071466013127937 0
+65C:\Users\Ale\Desktop\Portfolio\AleDev\dist\Project 3.91ddb0ef.jpg133203410242633743 0
 101C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@parcel\core\test\fixtures\invalid-source-not-file133050526121767390 1
 108C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file133050526122146383 1
 93C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@parcel\core\test\fixtures\invalid-targets133050526122355819 1
@@ -4548,6 +4551,7 @@
 85C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@jridgewell\resolve-uri\dist\types133050526067278316 1
 102C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@jridgewell\resolve-uri\dist\types\resolve-uri.d.ts121436361000000000 0
 82C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@jridgewell\gen-mapping\LICENSE121436361000000000 0
+65C:\Users\Ale\Desktop\Portfolio\AleDev\dist\Project 1.cd0bbe49.jpg133203416389577610 0
 87C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@jridgewell\gen-mapping\package.json133050526150813047 0
 84C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@jridgewell\gen-mapping\README.md121436361000000000 0
 78C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\@jridgewell\gen-mapping\src133050526070639314 1
@@ -4616,21 +4620,23 @@
 62C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\.bin\terser133050526160392526 0
 66C:\Users\Ale\Desktop\Portfolio\AleDev\node_modules\.bin\terser.cmd133050526160392526 0
 65C:\Users\Ale\Desktop\Portfolio\AleDev\dist\index.a7c4dd15.css.map133051342865482976 0
-61C:\Users\Ale\Desktop\Portfolio\AleDev\dist\index.d3f578f5.css133071466012818761 0
-65C:\Users\Ale\Desktop\Portfolio\AleDev\dist\index.d3f578f5.css.map133071466012838707 0
-64C:\Users\Ale\Desktop\Portfolio\AleDev\dist\index.df15ae8e.js.map133071466013307454 0
-63C:\Users\Ale\Desktop\Portfolio\AleDev\dist\profile.89566939.png133071466013137902 0
+61C:\Users\Ale\Desktop\Portfolio\AleDev\dist\index.d3f578f5.css133203410243681931 0
+65C:\Users\Ale\Desktop\Portfolio\AleDev\dist\index.d3f578f5.css.map133203410243711849 0
+64C:\Users\Ale\Desktop\Portfolio\AleDev\dist\index.df15ae8e.js.map133203410246369452 0
+63C:\Users\Ale\Desktop\Portfolio\AleDev\dist\profile.89566939.png133203410242633743 0
 63C:\Users\Ale\Desktop\Portfolio\AleDev\dist\profile.8db67846.png133071503673736630 0
 63C:\Users\Ale\Desktop\Portfolio\AleDev\dist\profile.8f19b361.jpg133050537811782811 0
 63C:\Users\Ale\Desktop\Portfolio\AleDev\dist\profile.c47b3f68.jpg133056617795486702 0
 65C:\Users\Ale\Desktop\Portfolio\AleDev\dist\Project 2.007a4502.jpg133071503669916841 0
-65C:\Users\Ale\Desktop\Portfolio\AleDev\dist\Project 2.a0a47f01.jpg133071466012120624 0
+65C:\Users\Ale\Desktop\Portfolio\AleDev\dist\Project 2.26962c0e.jpg133203416417624397 0
+65C:\Users\Ale\Desktop\Portfolio\AleDev\dist\Project 2.a0a47f01.jpg133203410242563929 0
+65C:\Users\Ale\Desktop\Portfolio\AleDev\dist\Project 3.ac2989e2.jpg133203416388986468 0
 63C:\Users\Ale\Desktop\Portfolio\AleDev\dist\project.0b14f8de.jpg133050537806611251 0
 57C:\Users\Ale\Desktop\Portfolio\AleDev\dist\styles.css.map133051340777681525 0
 49C:\Users\Ale\Desktop\Portfolio\AleDev\assets\data133050535448354051 1
-51C:\Users\Ale\Desktop\Portfolio\AleDev\assets\images133071298038212687 1
+51C:\Users\Ale\Desktop\Portfolio\AleDev\assets\images133203410238436992 1
 47C:\Users\Ale\Desktop\Portfolio\AleDev\assets\js133050519217521887 1
-55C:\Users\Ale\Desktop\Portfolio\AleDev\assets\resume.pdf133052262926914684 0
+55C:\Users\Ale\Desktop\Portfolio\AleDev\assets\resume.pdf133201859560062612 0
 49C:\Users\Ale\Desktop\Portfolio\AleDev\assets\scss133050519634615869 1
 60C:\Users\Ale\Desktop\Portfolio\AleDev\assets\scss\components133055732552199576 1
 58C:\Users\Ale\Desktop\Portfolio\AleDev\assets\scss\sections133056617761744940 1
@@ -4638,9 +4644,10 @@
 72C:\Users\Ale\Desktop\Portfolio\AleDev\assets\scss\sections\_contact.scss133071463243797194 0
 71C:\Users\Ale\Desktop\Portfolio\AleDev\assets\scss\sections\_footer.scss133071463437335567 0
 69C:\Users\Ale\Desktop\Portfolio\AleDev\assets\scss\sections\_hero.scss133071463885536572 0
-73C:\Users\Ale\Desktop\Portfolio\AleDev\assets\scss\sections\_projects.scss133056652337180641 0
+73C:\Users\Ale\Desktop\Portfolio\AleDev\assets\scss\sections\_projects.scss133071504793648196 0
 73C:\Users\Ale\Desktop\Portfolio\AleDev\assets\scss\components\_mixins.scss133071462035161408 0
 77C:\Users\Ale\Desktop\Portfolio\AleDev\assets\scss\components\_typography.scss133071462159825021 0
 63C:\Users\Ale\Desktop\Portfolio\AleDev\assets\images\favicon.png132810785070000000 0
 63C:\Users\Ale\Desktop\Portfolio\AleDev\assets\images\profile.png133071252563981200 0
-65C:\Users\Ale\Desktop\Portfolio\AleDev\assets\images\Project 2.jpg133071297810000000 0
+65C:\Users\Ale\Desktop\Portfolio\AleDev\assets\images\Project 2.jpg133203409890000000 0
+65C:\Users\Ale\Desktop\Portfolio\AleDev\assets\images\Project 4.jpg133203409930000000 0
